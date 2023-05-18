@@ -9,7 +9,7 @@ body{
 .image{
     background-image: url(./bigimage.jpg);
     width: 100%;
-    height: 120vh;
+    height: 115vh;
     /* opacity: 0.5; */
 }
 .filter{
@@ -105,7 +105,7 @@ ul{
     gap: 40px;
     
     width: 328px;
-    height: 610px;
+    height: 590px;
     border: 1px solid whitesmoke;
     border-radius: 2px;
     margin-top: -36%;
@@ -145,4 +145,107 @@ ul{
     text-align: center;
     border-radius: 5px;
     margin-top: 50px;
+}
+.section2{
+    background-color: #E6E6E6;
+    color: black;
+    width: 100%;
+    height: 170vh;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.ldm{
+    margin-left: 43%;
+    padding-top: 80px;
+}
+.p{
+    color: grey;
+    text-align: center;
+    margin-left: -600px;
+}
+.prototype{
+    margin-left: 13%;
+    margin-right: -7%;
+    margin-top: 8%;
+    display: inline-block;
+    justify-content: space-around;
+}
+.bluep {
+    width: 329px;
+    height: 132px;
+    background-color: steelblue;
+    border: 1px solid steelblue;
+    border-radius: 8px;
+}
+.icon{
+    margin-left: 60px;
+    margin-top: 5%;
+}
+.t {
+    margin-left: 45%;
+    margin-top: -15%;
+    color: #E6E6E6;
+}
+.whitep{
+    width: 328px;
+    height: 253px;
+    background-color: #E6E6E6;
+    border: 1px solid steelblue;
+    border-radius: 8px;
+}
+.n{
+    text-align: start;
+    font-size: 18px;
+    color: grey;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.b{
+    text-align: start;
+    font-size: 18px;
+    color: steelblue;
+    margin-top: 15px;
+    margin-left: 49px;
+}
+.wr{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 20px;
+    color: grey;
+}
+.part1{
+    margin-left: 13%;
+    margin-top: 15%;
+}
+.fb{
+    width: 23px;
+    height: 23px;
+    /* margin-right: 1%; */
+
+}
+.part2{
+    margin-left: 36% ;
+    margin-top: -11%;
+}
+.part3{
+    margin-left: 59% ;
+    margin-top: -15%;
+}
+.part4{
+    margin-left: 75% ;
+    margin-top: -13%;
+}
+.grey{
+    width: 1447px;
+    height: 76px ;
+    background-color: grey;
+    border: 1px solid grey;
+}
+.l{
+    text-align: center;
+    margin-top: 2%;
+    color: whitesmoke;
 }
